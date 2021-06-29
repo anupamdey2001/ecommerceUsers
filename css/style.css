@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(220, 245, 255);
+    padding: 0;
+    margin: 0;
+}
+/* navbar */
+.navbar-brand{
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+.navbar{
+    background-color: rgb(46 ,177, 255);
+    max-width: 1200px;
+    margin: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.navbar-toggler{
+    border: black;
+    background-color: #fff;
+}
+.navbar-toggler-icon{
+    display: block;
+    background-color: #000;
+    height: 1px;
+    width: 10px;
+    margin-top: 5px;
+}
+.text-center{
+    text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+a{
+    font-family: 'PT Serif', serif;
+    font-weight: 300;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+}
+
+.container-fluid{
+    margin-top: 8%;
+}
+
+.nav-link{
+    margin: 9px 8px;
+}
+.row_style{
+  margin: 10px 0 10px 0;
+}
+.card{
+    border: 1.5px solid rgb(0, 0, 255);
+    box-shadow: 1px 1px 5px rgb(113, 195, 250);
+}
+
+.img-fluid{ 
+    margin-top: 6.5rem;
+    margin-bottom: 5rem;
+    line-height: 1.5;
+}
+
+.sale{
+    color: rgb(101, 40, 158);
+}
+
+footer{
+    background-color: rgb(109, 189, 255);
+    color: rgb(255, 255, 255);
+    padding: 1rem 1rem;
+    margin-top: 3rem;
+}
+.link{
+    margin: auto;
+    width: 25%;
+    padding: 0.5rem;
+    display: block;
+    color: #fff;
+}
+.link:hover{
+    text-decoration: none;
+}
+  /* Full-width input fields */
+  /* .form-container input[type=text], .form-container input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+  } */

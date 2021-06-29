@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(235, 241, 253);
+}
+.contact{
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+}
+label{
+    font-size: 1.2rem;
+}
+.img-fluid{
+    padding: 0;
+    margin: 0;
+}

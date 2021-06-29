@@ -1,0 +1,8 @@
+.img-fluid{
+    margin-top: 3.5rem;
+    margin-bottom: 8rem;
+    height: 16.75rem;
+    width: 25rem;
+    border-radius: 1.5rem;
+    box-shadow: 6px 6px 5rem rgb(3, 29, 140);
+}
